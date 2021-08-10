@@ -4,7 +4,7 @@
 #include <fstream>
 #include <string>
 #include <sstream>
-
+//testing comments for this commit
 struct ShaderProgramSource
 {
     std::string VertexSource; 
