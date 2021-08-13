@@ -4,18 +4,18 @@
 #include <fstream>
 #include <string>
 #include <sstream>
-//testing comments for this commit
+//struct data type to parse in our source for our shader 
 struct ShaderProgramSource
 {
     std::string VertexSource; 
     std::string FragmentSource;
 };
-
+// implementing the structure
 static ShaderProgramSource ParseShader(const std::string& filepath) 
 {
-    std::ifstream stream(filepath);
+    std::ifstream stream(filepath); //ifstream from fstream header file to read shader file
 
-    enum class ShaderType
+    enum class ShaderType //enumeration to define shader types
     {
         NONE = -1, VERTEX = 0, FRAGMENT = 1
     };
