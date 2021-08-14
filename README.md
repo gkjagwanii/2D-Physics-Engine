@@ -1,5 +1,6 @@
 # 2D Physics Engine
 A graphics engine to simulate 2D physics.
+Currently under active development.
 
 ## Goal
 This project is mainly to improve my skills in C++
