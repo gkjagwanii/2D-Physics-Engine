@@ -1,5 +1,5 @@
 # 2D Physics Engine
-A graphics engine to simulate 2D physics.
+A graphics engine to simulate molecules in different states of matter.
 Currently under active development.
 
 ## Goal
@@ -11,6 +11,8 @@ and learning OpenGL to manipulate the GPU.
 - Rigid Body Physics.(To do)
 - Collision Detection.(To do)
 - Collision Resolution.(To do)
+- Gravity.(To do)
+- Intermolecular force/attraction?(To do)
 
 ## Going Forward
 I plan to have an iterative approach and will keep working with Graphics APIs until I have a 
