@@ -12,7 +12,7 @@ and learning OpenGL to manipulate the GPU.
 - Collision Detection.(To do)
 - Collision Resolution.(To do)
 - Gravity.(To do)
-- Intermolecular force/attraction?(To do)
+- Intermolecular forces of attraction/repulsion.(To do)
 
 ## Going Forward
 I plan to have an iterative approach and will keep working with Graphics APIs until I have a 
